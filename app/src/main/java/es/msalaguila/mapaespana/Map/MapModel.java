@@ -6,9 +6,6 @@ import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-import android.support.v7.app.AppCompatActivity;
-import android.support.v4.app.FragmentActivity;
-
 import es.msalaguila.mapaespana.Data.ComunidadAutonoma;
 import es.msalaguila.mapaespana.Data.Cuadrado;
 import es.msalaguila.mapaespana.R;
